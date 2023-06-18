@@ -1,0 +1,29 @@
+{
+  "name": "teachable-machine-nodejs",
+  "version": "1.0.0",
+  "description": "Using the model developed in Teachable-Machine with tensorflow in node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caglar-G/Teachable-Machine-nodejs.git"
+  },
+  "keywords": [
+    "tensorflow.js",
+    "node.js",
+    "teachable",
+    "machine"
+  ],
+  "author": "CaglarG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caglar-G/Teachable-Machine-nodejs/issues"
+  },
+  "homepage": "https://github.com/Caglar-G/Teachable-Machine-nodejs#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.7.0"
+  }
+}
